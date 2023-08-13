@@ -34,7 +34,8 @@ Welcome to the Simple Grocery Store project! This is a basic web application bui
 
 ## Screenshots
 
-Insert relevant screenshots of the project's user interface, admin panel, and key features.
+![image](https://github.com/Madhava20/Simple_Grocery_Store/assets/92641734/cc61de93-0631-47d5-9552-d472efeee644)
+
 
 ## Contributing
 
